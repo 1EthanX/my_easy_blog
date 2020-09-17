@@ -6,6 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a70c7068-db3d-4f24-9932-88283d926b77" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/admin/blogs-input.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/admin/blogs.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/blogs.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +53,7 @@
       <workItem from="1600172035450" duration="626000" />
       <workItem from="1600173325338" duration="16019000" />
       <workItem from="1600246854652" duration="6906000" />
-      <workItem from="1600318705754" duration="10999000" />
+      <workItem from="1600318705754" duration="15113000" />
     </task>
     <servers />
   </component>
@@ -104,5 +106,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="270" y="61" key="SettingsEditor/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1600179101703" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1600349660628">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1600349660628" />
   </component>
 </project>
