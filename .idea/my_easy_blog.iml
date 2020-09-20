@@ -8,10 +8,11 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="@types/jquery" level="application" />
     <orderEntry type="library" name="semantic" level="application" />
     <orderEntry type="library" name="jquery" level="application" />
     <orderEntry type="library" name="semantic" level="application" />
     <orderEntry type="library" name="jquery" level="application" />
+    <orderEntry type="library" name="animate.css" level="application" />
+    <orderEntry type="library" name="tocbot" level="application" />
   </component>
 </module>
